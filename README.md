@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Funngro Smart Website (Next.js)
 
-## Getting Started
+This project is a smart, SEO-optimized website built for **Funngro** as part of a web development assessment.  
+The website focuses on two key user groups — **Companies** and **Teens** — and showcases clean UI, modern design, and strong SEO practices.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🔗 Live Demo
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+👉 https://fungroo-next.vercel.app/
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📌 Project Overview
 
-## Learn More
+Funngro connects companies with skilled teens for real-world projects and helps teens earn, learn, and gain early career exposure.
 
-To learn more about Next.js, take a look at the following resources:
+This website includes:
+- A **Company page** to attract businesses
+- A **Teen page** to encourage student participation
+- SEO-friendly content and structure
+- Responsive and modern UI
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tech Stack
 
-## Deploy on Vercel
+- **Next.js (App Router)**
+- **TypeScript**
+- **Tailwind CSS**
+- **Vercel** (Deployment)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📄 Pages Implemented
+
+### 1️⃣ Company Page (`/`)
+- Hire skilled teens for business projects
+- Benefits of Funngro for companies
+- How it works section
+- Call-to-action buttons
+
+### 2️⃣ Teen Page (`/teen`)
+- Earn money through real projects
+- Skills teens can learn
+- Benefits of joining Funngro
+- Call-to-action buttons
+
+---
+
+## 🔍 SEO Features
+
+- Server-side rendering with Next.js
+- Page-level metadata (title & description)
+- Clean and semantic HTML structure
+- Mobile responsive design
+- SEO-friendly URLs
+- Fast loading and optimized UI
+
+---
+
